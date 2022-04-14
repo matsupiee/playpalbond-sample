@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/playpalbond-sample/static/css/main.86bd5046.css",
+    "main.js": "/playpalbond-sample/static/js/main.8f14e76b.js",
+    "index.html": "/playpalbond-sample/index.html",
+    "main.86bd5046.css.map": "/playpalbond-sample/static/css/main.86bd5046.css.map",
+    "main.8f14e76b.js.map": "/playpalbond-sample/static/js/main.8f14e76b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86bd5046.css",
+    "static/js/main.8f14e76b.js"
+  ]
+}
